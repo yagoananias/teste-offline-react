@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "teste-offline",
-    "slug": "teste-offline",
+    "name": "teste-offline-react",
+    "slug": "teste-offline-react",
     "platforms": [
       "ios",
       "android",
